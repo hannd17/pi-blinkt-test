@@ -6,7 +6,7 @@ from blinkt import set_brightness, set_pixel, show
 spacing = 360.0 / 16.0
 hue = 0
 
-set_brightness(0.1)
+set_brightness(0.01)
 
 while True:
     hue = int(time.time() * 100) % 360
