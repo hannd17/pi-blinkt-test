@@ -3,7 +3,7 @@ import colorsys
 
 import unicornhat as uh
 uh.set_layout(uh.PHAT)
-uh.brightness(0.1)
+uh.brightness(0.25)
 
 spacing = 360.0 / 16.0
 hue = 0
