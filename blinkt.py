@@ -1,4 +1,4 @@
-from blinkt import *
+from blinkt import set_pixel, set_brightness, show, clear
 
 set_brightness(0.1)
 
