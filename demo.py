@@ -7,6 +7,6 @@ import time
 while True:
     for i in range(8):
         clear()
-        set_pixel(i, 255, 255, 0255
+        set_pixel(i, 255, 255, 255)
         show()
         time.sleep(0.05)
